@@ -1,0 +1,43 @@
+{
+  "updated": "2026-09-29",
+  "parks": {
+    "rocr": {
+      "hours": "Park land is open year-round from sunrise to sunset; some facilities keep separate hours.",
+      "hoursUrl": "https://www.nps.gov/rocr/planyourvisit/hours.htm",
+      "charging": "No official public phone-charging location has been confirmed.",
+      "restroomSummary": "NPS lists restrooms at the Nature Center, Peirce Barn, Meridian Hill Park, and Picnic Groves 1, 6, 10 and 24. Availability can change.",
+      "visitorCenters": [
+        "Nature Center & Planetarium",
+        "Peirce Mill",
+        "Old Stone House"
+      ],
+      "facilities": [
+        {
+          "id": "rocr-nature-center",
+          "name": "Nature Center & Planetarium",
+          "address": "5200 Glover Road NW",
+          "lat": 38.960047,
+          "lon": -77.051760,
+          "water": true,
+          "restroom": true,
+          "visitorCenter": true,
+          "status": "Building closed until further notice as of April 8, 2026; check NPS before traveling.",
+          "url": "https://www.nps.gov/rocr/planyourvisit/nature-center-and-planetarium.htm"
+        },
+        {
+          "id": "rocr-peirce-mill",
+          "name": "Peirce Mill",
+          "address": "2401 Tilden Street NW",
+          "lat": 38.940542,
+          "lon": -77.052195,
+          "water": true,
+          "restroom": true,
+          "visitorCenter": true,
+          "status": "Grounds follow general park hours; building hours vary seasonally and with staffing.",
+          "url": "https://www.nps.gov/rocr/planyourvisit/peirce-mill-visitor-center.htm"
+        }
+      ],
+      "sourceUrl": "https://www.nps.gov/rocr/faqs.htm"
+    }
+  }
+}
